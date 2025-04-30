@@ -56,7 +56,7 @@ O projeto usa um `Makefile` com as seguintes regras:
 ## 🗂️ Estrutura do Projeto
 
 ```
-tp2_cdd/
+tp2_tdd/
 ├── romano.cpp
 ├── romano.hpp
 ├── testa_romano.cpp
