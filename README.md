@@ -1,6 +1,6 @@
 # TP2 - Conversor de Algarismos Romanos (TDD)
 
-Este projeto foi desenvolvido para a disciplina **Métodos de Programação** da Universidade de Brasília (UnB), com foco em **Desenvolvimento Orientado a Testes (TDD)**. O objetivo é implementar uma biblioteca em C++ capaz de converter números romanos válidos para inteiros arábicos, seguindo as boas práticas de engenharia de software.
+Este projeto foi desenvolvido para a disciplina **Técnicas de Programação 2** da Universidade de Brasília (UnB), com foco em **Desenvolvimento Orientado a Testes (TDD)**. O objetivo é implementar uma biblioteca em C++ capaz de converter números romanos válidos para inteiros arábicos, seguindo as boas práticas de engenharia de software.
 
 ## ✨ Funcionalidades
 
